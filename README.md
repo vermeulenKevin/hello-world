@@ -1,3 +1,2 @@
-# hello-world
-test
-
+# pygame 
+import pygame
